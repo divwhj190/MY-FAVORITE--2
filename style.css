@@ -57,3 +57,10 @@ h2 {
 .list:hover {
     background-color: red;
 }
+h3{
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 17px;
+    line-height: 1.3;
+}
+
