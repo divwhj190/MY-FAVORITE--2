@@ -11,10 +11,12 @@ img {
 
 h1 {
     color:darkorchid;
+    font-family:'Squada One',cursive;
 }
 
 h2 {
     color: red;
+    font-family:'Righteous',cursive;
 }
 
 #heading {
