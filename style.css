@@ -58,10 +58,12 @@ h2 {
     background-color: red;
 }
 h3{
-    color:yellow;
     max-width: 450px;
     margin: 25px auto;
     font-size: 17px;
     line-height: 1.3;
+}
+#heading{
+    color:yellow;
 }
 
